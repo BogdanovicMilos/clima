@@ -71,14 +71,6 @@
 			path = Managers;
 			sourceTree = "<group>";
 		};
-		47D5C5D7272466B100D68D0D /* Base.Iproj */ = {
-			isa = PBXGroup;
-			children = (
-				ADAA27BB231BBFB300365194 /* LaunchScreen.storyboard */,
-			);
-			path = Base.Iproj;
-			sourceTree = "<group>";
-		};
 		ADAA27A4231BBFAF00365194 = {
 			isa = PBXGroup;
 			children = (
@@ -102,9 +94,8 @@
 				47D5C5D62724667300D68D0D /* Managers */,
 				47D5C5D52724649100D68D0D /* Delegates */,
 				47A989DC2704FCAD005ACE2F /* Model */,
-				ADAA27C9231BC3F200365194 /* View */,
 				ADAA27C8231BC3E500365194 /* Controller */,
-				47D5C5D7272466B100D68D0D /* Base.Iproj */,
+				ADAA27BB231BBFB300365194 /* LaunchScreen.storyboard */,
 				ADAA27B9231BBFB300365194 /* Assets.xcassets */,
 				ADAA27BE231BBFB300365194 /* Info.plist */,
 			);
@@ -115,16 +106,9 @@
 			isa = PBXGroup;
 			children = (
 				ADAA27B4231BBFAF00365194 /* WeatherViewController.swift */,
-			);
-			path = Controller;
-			sourceTree = "<group>";
-		};
-		ADAA27C9231BC3F200365194 /* View */ = {
-			isa = PBXGroup;
-			children = (
 				ADAA27B6231BBFAF00365194 /* Main.storyboard */,
 			);
-			path = View;
+			path = Controller;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
